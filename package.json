@@ -1,0 +1,8 @@
+{
+  "name": "vue-ssr",
+  "version": "1.0.0",
+  "description": "vue ssr",
+  "main": "index.js",
+  "author": "jiantong.liu",
+  "license": "MIT"
+}
