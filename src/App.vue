@@ -1,6 +1,7 @@
 <template>
   <div class="warp">
       vue
+      <router-view></router-view>
   </div>
 </template>
 
